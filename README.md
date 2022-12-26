@@ -16,3 +16,4 @@ Task 2 и Task 3  исходный массив задается на старт
 
 
 
+![image](https://user-images.githubusercontent.com/119183210/209567934-09559579-18ba-4433-b90d-354cc914deb1.png)

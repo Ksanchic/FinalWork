@@ -1,0 +1,15 @@
+/Users/krr/Desktop/oks/finalWork/task2/obj/Debug/net7.0/task2.csproj.AssemblyReference.cache
+/Users/krr/Desktop/oks/finalWork/task2/obj/Debug/net7.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krr/Desktop/oks/finalWork/task2/obj/Debug/net7.0/task2.AssemblyInfoInputs.cache
+/Users/krr/Desktop/oks/finalWork/task2/obj/Debug/net7.0/task2.AssemblyInfo.cs
+/Users/krr/Desktop/oks/finalWork/task2/obj/Debug/net7.0/task2.csproj.CoreCompileInputs.cache
+/Users/krr/Desktop/oks/finalWork/task2/bin/Debug/net7.0/task2
+/Users/krr/Desktop/oks/finalWork/task2/bin/Debug/net7.0/task2.deps.json
+/Users/krr/Desktop/oks/finalWork/task2/bin/Debug/net7.0/task2.runtimeconfig.json
+/Users/krr/Desktop/oks/finalWork/task2/bin/Debug/net7.0/task2.dll
+/Users/krr/Desktop/oks/finalWork/task2/bin/Debug/net7.0/task2.pdb
+/Users/krr/Desktop/oks/finalWork/task2/obj/Debug/net7.0/task2.dll
+/Users/krr/Desktop/oks/finalWork/task2/obj/Debug/net7.0/refint/task2.dll
+/Users/krr/Desktop/oks/finalWork/task2/obj/Debug/net7.0/task2.pdb
+/Users/krr/Desktop/oks/finalWork/task2/obj/Debug/net7.0/task2.genruntimeconfig.cache
+/Users/krr/Desktop/oks/finalWork/task2/obj/Debug/net7.0/ref/task2.dll
